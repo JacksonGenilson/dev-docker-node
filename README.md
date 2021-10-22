@@ -6,3 +6,13 @@ Iniciar o projeto
 
 Rodar o projeto
   docker-compose up --build
+
+## Project setup
+```
+npm install
+```
+
+## Run project in dev
+```
+docker-compose up --build
+```
