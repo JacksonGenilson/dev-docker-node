@@ -1,0 +1,1 @@
+// Este aquivo depende do banco de dados conectado.
